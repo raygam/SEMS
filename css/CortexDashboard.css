@@ -1,0 +1,124 @@
+﻿.menubox {
+	margin: 10px;
+	padding: 10px;
+	border: 2px solid #000080;
+	border-radius: 25px;
+	height: 160px;
+	width: 160px;
+	float:left;
+	position:relative;
+}
+	
+.menupic {
+	
+	display:inline-block;
+	position: absolute;
+        left: 20px;
+        top: 25px;
+	border: 0px solid #000080;
+
+	
+	
+}
+.menutitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	
+	display: inline-block;
+	position: relative;
+	width: 160px;
+
+	
+
+}
+
+.menutitlenobadge {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+	
+	display: inline-block;
+	position: relative;
+	width: 140px;
+
+}
+
+.menutitlenobadge:hover {
+	color: #555555;
+	
+	
+}
+
+
+
+.menutitle:hover {
+	color: #555555;
+	
+	
+}
+.menubadge {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: bold;
+	border: 1px solid #FF0000;
+	border-radius: 15px;
+	background-color: #FF0000;
+	color: #FFFFFF;
+	text-align: center;
+	display:inline-block;
+	position: absolute;
+    left: 110px;
+    top: 120px;
+    z-index:10;
+    
+}
+.menunobadge {
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: bold;
+	border: 1px solid #FF0000;
+	border-radius: 15px;
+	background-color: #FF0000;
+	color: #FFFFFF;
+	text-align: center;
+	display:none;
+	position: absolute;
+    left: 100px;
+    top: 80px;
+    z-index:10;
+}
+
+.Table {
+	
+}
+.Title {
+    
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.Heading {
+    width: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Row
+{
+    float: clear;
+}
+
+.Cell {
+    
+    width: 100px;
+    float: left;
+}
+
+
